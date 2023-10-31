@@ -1,4 +1,4 @@
 img[alt="logo"]{
     width: 10rem;
-    
+    filter: drop-shadow(16px 10px 10px rgba(9, 255, 0, 0.681));
 }
